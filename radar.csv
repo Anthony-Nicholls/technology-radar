@@ -1,5 +1,5 @@
 name,ring,quadrant,isNew,description
-Tool1,Deprecate,Languages,TRUE,<p></p>
-Tool2,Assess,Tools,TRUE,<p></p>
-Tool3,Trial,Platforms,FALSE,<p></p>
-Tool4,Adopt,Techniques,FALSE,<p></p>
+Tool1,Deprecate,Languages,TRUE,<p>Description one.</p>
+Tool2,Assess,Tools,TRUE,<p>Description two.</p>
+Tool3,Trial,Platforms,FALSE,<p>Description three.</p>
+Tool4,Adopt,Techniques,FALSE,<p>Description four.</p>
