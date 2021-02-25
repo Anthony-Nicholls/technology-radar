@@ -1,6 +1,14 @@
 name,ring,quadrant,isNew,description
-# comment
+
+# Adopt
 Tool1,Adopt,Techniques,FALSE,<p>Description one.</p>
+
+# Trial
 Tool2,Trial,Platforms,FALSE,<p>Description teo.</p>
+
+# Assess
 Tool3,Assess,Tools,TRUE,<p>Description three.</p>
+
+# Deprecate
 Tool4,Deprecate,Languages,TRUE,<p>Description four.</p>
+Tool5,Deprecate,Languages,TRUE,<p>Description five.</p>
